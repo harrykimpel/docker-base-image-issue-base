@@ -1,4 +1,4 @@
-FROM alpine:3.17.1
+FROM alpine:3.14.1
 #FROM openjdk:11-ea-9
 
 RUN apk add --no-cache bash
